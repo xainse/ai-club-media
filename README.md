@@ -26,3 +26,4 @@ Issues, milestones і статус робіт ведуться в Linear; цей
 - [`docs/02-competitors-ua-telegram-ai.md`](docs/02-competitors-ua-telegram-ai.md) — конкуренти в українському Telegram-сегменті про AI.
 - [`docs/03-executable-plan-90d.md`](docs/03-executable-plan-90d.md) — виконуваний 90-денний план.
 - [`docs/04-ua-ai-media-landscape-deep-research.md`](docs/04-ua-ai-media-landscape-deep-research.md) — глибоке дослідження UA-медіа про AI для техспеціалістів і бізнесу.
+- [`docs/05-audience-icp-research.md`](docs/05-audience-icp-research.md) — ICP-дослідження аудиторії для AI Club: керівники IT-сервісу, JTBD, контент-попит і валідація.
